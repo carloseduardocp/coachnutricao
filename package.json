@@ -1,0 +1,10 @@
+{
+  "name": "n8n-render",
+  "version": "1.0.0",
+  "description": "Deploy do N8N para Render.com com imagem oficial",
+  "main": "index.js",
+  "scripts": {
+    "start": "n8n"
+  },
+  "dependencies": {}
+}
